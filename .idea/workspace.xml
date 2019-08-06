@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef001a37-13f3-41a3-894f-150b23a860a9" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/Springboottest1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/controller/UserLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/interceptor/sessionInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/interceptor/userLoginInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/mapper/userMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/service/UserLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/test/DelTagsUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/test/Single.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboottest1/test/testArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/ee649b6dffd0d1eb103f174721d4ddcf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/ee649b6dffd0d1eb103f174721d4ddcf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/testbackground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/HelloWord.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/loginError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userLogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/springboottest1/Springboottest1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/Springboottest1Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/controller/UserLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/interceptor/sessionInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/interceptor/userLoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/mapper/userMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/service/UserLoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/test/DelTagsUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/test/Single.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/springboottest1/test/testArr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/generator/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/ee649b6dffd0d1eb103f174721d4ddcf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/ee649b6dffd0d1eb103f174721d4ddcf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/testbackground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/HelloWord.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/loginError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userLogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/springboottest1/Springboottest1ApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testObject1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ef001a37-13f3-41a3-894f-150b23a860a9" name="Default Changelist" comment="init" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,7 +81,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="148" />
     <option name="y" value="250" />
     <option name="width" value="1400" />
@@ -332,7 +274,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -396,7 +338,7 @@
       <workItem from="1565048992015" duration="1650000" />
       <workItem from="1565050697841" duration="61000" />
       <workItem from="1565050848149" duration="3349000" />
-      <workItem from="1565057994573" duration="1817000" />
+      <workItem from="1565057994573" duration="2212000" />
     </task>
     <servers />
   </component>
@@ -412,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21073000" />
+    <option name="totallyTimeSpent" value="21468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
